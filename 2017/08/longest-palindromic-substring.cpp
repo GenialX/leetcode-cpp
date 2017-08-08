@@ -15,24 +15,24 @@ using namespace std;
 
 class Solution {
     private:
-        string s;
+        string str;
 
     public:
         string longestPalindrome(string os) {
-            s = os; // os:original string
+            str = os; // os:original string
             int dp[MAX][MAX] = {0};
-            int ml = 0, os = 0, l = s.length(); // ml:max length os:offset
+            int ml = 0, ofs = 0, l = str.length(); // ml:max length ofs:offset
             for (int i = 0; i < l; ++i) {
                 for (int j = i; j < l; ++j) {
                     if (isPalindrome(i, j, dp)) {
                         if (j - i + 1> ml) {
-                            os = i;
+                            ofs = i;
                             ml = j - i + 1;
                         }
                     }
                 }
             }
-            return s.substr(os, ml);
+            return str.substr(ofs, ml);
         }
 
     private :
@@ -43,10 +43,10 @@ class Solution {
                         dp[s][e] = -1;
                         break;
                     case 2:
-                        dp[s][e] = s[s] == s[e] ? -1 : -2;
+                        dp[s][e] = str[s] == str[e] ? -1 : -2;
                         break;
                     default:
-                        dp[s][e] = (s[s] == s[e] && isPalindrome(s + 1, e - 1, dp))? -1 : -2;
+                        dp[s][e] = (str[s] == str[e] && isPalindrome(s + 1, e - 1, dp))? -1 : -2;
                 }
             }
             return dp[s][e] == -1 ? true : false;
