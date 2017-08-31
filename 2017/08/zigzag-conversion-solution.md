@@ -1,6 +1,6 @@
 **Intuition**
 
-If we want to output the result by reading line by line, we need to know the index of the each character. So how to find the specific index sequence of the characters which are read line by line is the what we focus on mainly.
+If we want to output the result by reading line by line, we need to know the index of the each character. So how to find the specific index sequence of the characters which are read line by line is what we focus on mainly.
 
 **Algorithm**
 
@@ -35,7 +35,7 @@ E         M         U
 
 Secondly, we need to find the index sequence while reading line by line. Obviously, the indexes of the firstly line are what as follow:
 
- - `0, 4, 8, 12` for `n = 3`;
+ - `0, 4, 8` for `n = 3`;
 
  - `0, 6, 12` for `n = 4`;
 
@@ -49,7 +49,7 @@ Because:
 
  - For the `n = 5` case, the index of the `A` character equals `0`, `I` equals `8`, `Q` equals `16`;
 
-Now, we could get the conclusion that for the first line, the distance of numbers adjacent to each other is 2(n -1). So the index for the `k`th(k = 0, 1, 2...) element of the `i`th line could be expressed by expression that `2 * k (n - 1) + i`
+Now, we could get the conclusion that for the first line, the distance of numbers adjacent to each other is `2(n -1)`. So the index for the `k`th(k = 0, 1, 2...) element of the `i`th line could be expressed by expression that `2 * k (n - 1) + i`
 
 Then, we could also get the same conclusion for the `n`th line, because the `n`th line is similar to the `0`th line.
 
@@ -103,8 +103,8 @@ public class Solution {
 
 **Complexity Analysis**
 
-* Time complexity : $O(n)$. The n is the length of the original string.
+* Time complexity : O(n). The n is the length of the original string.
 
-To calculate all the characters' index, we need to scan all of them. Thus, it costs $$O(n)$$ time.
+To calculate all the characters' index, we need to scan all of them. Thus, it costs O(n) time.
 
-* Space complexity : $O(n)$. The extra space required for storing the characters in String as well as returning them.
+* Space complexity : O(n). The extra space required for storing the characters in String as well as returning them.
