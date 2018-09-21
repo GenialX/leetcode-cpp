@@ -1,5 +1,7 @@
 /**
  * https://leetcode.com/problems/possible-bipartition/description/
+ *
+ * dfs with stack
  */
 #include <iostream>
 #include <vector>
@@ -13,39 +15,47 @@ using namespace std;
 class Solution {
     public:
         bool possibleBipartition(int N, vector<vector<int>>& dislikes) {
-            // create the graph(two-demontional array)
             _g = vector< vector<int> >(N);
-            for (int i = 0; i < N; ++i) {
+            // create the graph(two-demontional array)
+            for (int i = 0; i < (int)dislikes.size(); ++i) {
                 _g[dislikes[i][0] - 1].push_back(dislikes[i][1] - 1);
                 _g[dislikes[i][1] - 1].push_back(dislikes[i][0] - 1);
             }
 
-            _colors = vector<int>(N, 0); // 0 unkone, 1 red, -1 blue
+            // fill colors
+            _colors = vector<int>(N, 0); // 0 for unknow, 1 for red, -1 for blue
+
+            // dfs with stack
             for (int i = 0; i < N; ++i) {
                 if (_colors[i] == 0 && !dfs(i, 1)) return false;
             }
+
             return true;
         }
 
     private:
         vector< vector<int> > _g;
         vector<int> _colors;
-        vector<int> _sstack;
+        stack<vector<int>> _sstack; // _sstack[0] for cur node, 1 for cur color
         bool dfs(int cur, int color) {
-            stack< vector<int> > _stack;
-            _stack.push(vector<int> {cur, color});
+            _sstack.push(vector<int>{cur, color});
+            while (_sstack.size()) {
+                // get head item
+                cur = _sstack.top()[0];
+                color = _sstack.top()[1];
 
-            while (_stack.size()) {
-                _sstack = _stack.top();
-                _stack.pop();
+                // pop
+                _sstack.pop();
 
-                _colors[_sstack[0]] = _sstack[1];
-                for (int n : _g[_sstack[0]]) {
-                    if (_colors[n] == _sstack[1]) return false;
-                    if (_colors[n] == 0) _stack.push(vector<int> {n, -_sstack[1]});
+                // set color
+                _colors[cur] = color;
+
+                for (int ccur : _g[cur]) {
+                    if (_colors[ccur] == color) return false;
+                    // push
+                    if (_colors[ccur] == 0) _sstack.push(vector<int> {ccur, -color});
                 }
             }
-
             return true;
         }
 };
