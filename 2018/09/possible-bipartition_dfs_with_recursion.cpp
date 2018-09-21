@@ -1,5 +1,7 @@
 /**
  * https://leetcode.com/problems/possible-bipartition/description/
+ *
+ * dfs with recursion
  */
 #include <iostream>
 #include <vector>
@@ -12,17 +14,16 @@ using namespace std;
 class Solution {
     public:
         bool possibleBipartition(int N, vector<vector<int>>& dislikes) {
-            // create the graph(two-demontional array)
-            _g = vector< vector<int> >(N);
-            for (int i = 0; i < N; ++i) {
+            // create the graph(two-demontional array)         
+            _g = vector< vector<int> >(N);                     
+            for (int i = 0; i < (int)dislikes.size(); ++i) {
                 _g[dislikes[i][0] - 1].push_back(dislikes[i][1] - 1);
                 _g[dislikes[i][1] - 1].push_back(dislikes[i][0] - 1);
             }
-
-            _colors = vector<int>(N, 0); // 0 unkone, 1 red, -1 blue
-            for (int i = 0; i < N; ++i) {
-                if (_colors[i] == 0 && !dfs(i, 1)) return false;
-            }
+            // colors
+            _colors = vector<int>(N, 0); // 1 red -1 blue 0 unknown
+            // dfs
+            if (!dfs(0, 1)) return false;
             return true;
         }
 
@@ -31,9 +32,9 @@ class Solution {
         vector<int> _colors;
         bool dfs(int cur, int color) {
             _colors[cur] = color;
-            for (int n : _g[cur]) {
-                if (_colors[n] == color) return false;
-                if (_colors[n] == 0 && !dfs(n, -color)) return false;
+            for (int s_cur : _g[cur]) {
+                if (_colors[s_cur] == color) return false;
+                if (_colors[s_cur] == 0 && !dfs(s_cur, -color)) return false;
             }
             return true;
         }
