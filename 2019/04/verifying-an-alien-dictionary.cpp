@@ -48,7 +48,6 @@ int main(int argc, char * argv[]) {
     vector<string> words{"word","word","row"};
     string order = "worldabcefghijkmnpqstuvxyz";
     bool res = s->isAlienSorted(words, order);
-    if (res) cout<<"true"<<endl;
     else cout<<"false"<<endl;
     return 0;
 }
