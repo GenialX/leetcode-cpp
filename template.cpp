@@ -53,7 +53,7 @@ public:
     void foo(vector<string>& words, string word1, string word2) {}
 };
 
-int main(int argc, char * argv[]) {
+int main() {
     Solution *s = new Solution();
     vector<string> words{};
     string word1;
