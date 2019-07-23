@@ -50,11 +50,30 @@ typedef long double LD;
 
 class Solution {
 public:
-    void foo() {}
+    int mySqrt(int n) {
+        if (n == 0) return 0;
+        int l = 1, h = n / 2 + 1, m = l;
+        while (l < h) {
+            cout<<" l:"<< l <<" h:"<<h<<endl;
+            // can not use the format: m = l / 2 + h / 2;
+            // when could use this format to avoid overflow?
+            m = (l + h) >> 1;
+            if (m * m <= n) {
+                l = m;
+            } else {
+                h = m - 1;
+            }
+            if (l == h - 1) {
+                if (h * h <= n) l = h;
+                else h = l;
+            }
+        }
+        return l;
+    }
 };
 
 int main() {
     Solution *s = new Solution();
-    s->foo();
+    for (int i = 0; i < 10; ++i)  cout << "input:" << i << " ans:" << s->mySqrt(i) << endl;
     return 0;
 }

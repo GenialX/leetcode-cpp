@@ -50,11 +50,44 @@ typedef long double LD;
 
 class Solution {
 public:
-    void foo() {}
+    int maxProfit(vector<int>& prices) {
+        int len = prices.size();
+        vector<int> h(len, 0);
+        h[len - 1] = len - 1;
+        //cout<<"i:"<<len - 1<<" h:"<<h[len - 1]<<endl;
+        for (int i = len - 2; i >= 0; --i) {
+            if (prices[i] < prices[i + 1]) {
+                h[i] = h[i + 1];
+            } else {
+                h[i] = i;
+            }
+            //cout<<"i:"<<i<<" h:"<<h[i]<<endl;
+        }
+        int i = 0, ans = 0;
+        //cout<<endl;
+        while (i < len) {
+            //cout<<"i:"<<i<<endl;
+            if (h[i] == i) {
+                ++i;
+            } else {
+                ans += prices[h[i]] - prices[i];
+                i = h[i] + 1;
+            }
+        }
+        return ans;
+    }
 };
 
 int main() {
     Solution *s = new Solution();
-    s->foo();
+    int n;
+    cin >> n;
+    vector<int> prices;
+    for (int i = 0; i < n; ++i) {
+        int v;
+        cin >> v;
+        prices.push_back(v);
+    }
+    cout << " ans:" << s->maxProfit(prices) << endl;;
     return 0;
 }
