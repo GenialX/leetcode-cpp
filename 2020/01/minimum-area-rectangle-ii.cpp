@@ -1,3 +1,5 @@
+// Time Complexity: O(n)
+// Space Complexity: O(n)
 struct P {
     int x;
     int y;
