@@ -1,5 +1,5 @@
 # leetcode-cpp
-Playground for leetcode
+C++ Solutions for LeetCode
 
 # C++ Syntax Guide
 
