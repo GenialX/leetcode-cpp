@@ -9,7 +9,7 @@ Playground for leetcode
 ## Unordered Map(Set) Hash Func
 - [963. minimum-area-rectangle-ii](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/minimum-area-rectangle-ii.cpp)
 
-# Topic
+# Topic List
 
 ## Geometry
 - [963. minimum-area-rectangle-ii](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/minimum-area-rectangle-ii.cpp)
@@ -17,6 +17,6 @@ Playground for leetcode
 ## Math
 - [963. minimum-area-rectangle-ii](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/minimum-area-rectangle-ii.cpp)
 
-# Problems
+# Problem List
 
 - [963. minimum-area-rectangle-ii](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/minimum-area-rectangle-ii.cpp)
