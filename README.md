@@ -30,6 +30,7 @@ C++ Solutions for LeetCode
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 
 ## Dynamic Programming
+- [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
 
 ## Geometry
@@ -42,6 +43,7 @@ C++ Solutions for LeetCode
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
 
 ## String
+- [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 
 ## Stack
@@ -52,6 +54,7 @@ C++ Solutions for LeetCode
 - [Problems of Interview 55-II 平衡二叉树](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-55-II-ping-heng-er-cha-shu-lcof.cpp)
 
 # Problems
+- [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [136. Single Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/136-single-number.cpp)
 - [334. Increasing Triplet Subsequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/334-increasing-triplet-subsequence.cpp)
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
