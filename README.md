@@ -31,6 +31,7 @@ C++ Solutions for LeetCode(from 2020)
 
 ## Dynamic Programming
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
+- [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
 
 ## Geometry
@@ -62,6 +63,7 @@ C++ Solutions for LeetCode(from 2020)
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 - [1238. Circular Permutation in Binary Representation](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1238-circular-permutation-in-binary-representation.cpp)
 - [1239. Maximum Length of a Concatenated String With Unique Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1239-maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
+- [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
 - [Problems of Interview 55-II 平衡二叉树](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-55-II-ping-heng-er-cha-shu-lcof.cpp)
