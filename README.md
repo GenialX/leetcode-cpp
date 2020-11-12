@@ -74,6 +74,9 @@ C++ Solutions for LeetCode(from 2020)
 ## Greedy
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
+## Binary Indexed Tree(BIT)
+- [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/1632-rank-transform-of-a-matrix.cpp)
+
 # Problems
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [136. Single Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/136-single-number.cpp)
@@ -91,6 +94,7 @@ C++ Solutions for LeetCode(from 2020)
 - [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [1411. Number of Ways to Paint N X 3 Grid](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1411-number-of-ways-to-paint-n-x-3-grid.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
+- [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/1632-rank-transform-of-a-matrix.cpp)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
 - [Problems of Interview 55-II 平衡二叉树](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-55-II-ping-heng-er-cha-shu-lcof.cpp)
