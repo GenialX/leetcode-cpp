@@ -6,6 +6,9 @@ C++ Solutions for LeetCode(from 2020)
 ## Sort
 - Sort Internal Function [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
+## String
+- Char 2 String [1002. Find Common Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/10/1002-find-common-characters.cpp)
+
 ## Struct
 - Operator Overide [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
 
@@ -14,9 +17,6 @@ C++ Solutions for LeetCode(from 2020)
 
 ## Vector
 - Reverse [1238. Circular Permutation in Binary Representation](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1238-circular-permutation-in-binary-representation.cpp)
-
-## String
-- Char 2 String [1002. Find Common Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/10/1002-find-common-characters.cpp)
 
 # Topics
 
