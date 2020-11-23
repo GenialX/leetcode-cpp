@@ -26,27 +26,30 @@ C++ Solutions for LeetCode(from 2020)
 - [334. Increasing Triplet Subsequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/334-increasing-triplet-subsequence.cpp)
 - [1238. Circular Permutation in Binary Representation](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1238-circular-permutation-in-binary-representation.cpp)
 
-### Binary Search
-- [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
-- [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
-
 ### Bit Manipulation
 - [136. Single Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/136-single-number.cpp)
 - [1238. Circular Permutation in Binary Representation](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1238-circular-permutation-in-binary-representation.cpp)
 - [1239. Maximum Length of a Concatenated String With Unique Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1239-maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
+
+### Binary Search
+- [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
+- [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
 
 ### Simulation
 - [1411. Number of Ways to Paint N X 3 Grid](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1411-number-of-ways-to-paint-n-x-3-grid.cpp)
 
 ## Basic Data Structure
 
+### Priority Queue
+- [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
+
+### Stack
+- [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
+
 ### String
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 - [1002. Find Common Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/10/1002-find-common-characters.cpp)
-
-### Stack
-- [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 
 ### Tree
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
@@ -54,9 +57,6 @@ C++ Solutions for LeetCode(from 2020)
 
 ### Union Find
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
-
-### Priority Queue
-- [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
 
 ## Advanced Data Structure
 
@@ -82,8 +82,15 @@ C++ Solutions for LeetCode(from 2020)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
 ## Math
-- [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
+
+### Exponentiation by Squaring
 - [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
+
+### Inverse Element
+- [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
+
+### Others
+- [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
 
 ## Geometry
 - [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
