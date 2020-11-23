@@ -83,6 +83,7 @@ C++ Solutions for LeetCode(from 2020)
 
 ## Math
 - [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
+- [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
 
 ## Geometry
 - [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
@@ -103,6 +104,7 @@ C++ Solutions for LeetCode(from 2020)
 - [1239. Maximum Length of a Concatenated String With Unique Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1239-maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 - [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [1411. Number of Ways to Paint N X 3 Grid](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1411-number-of-ways-to-paint-n-x-3-grid.cpp)
+- [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 - [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
