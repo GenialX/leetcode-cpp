@@ -47,6 +47,11 @@ C++ Solutions for LeetCode(from 2020)
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
 
 ### Stack
+
+#### Monotonic Stack
+- [321. Create Maximum Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/321-create-maximum-number.cpp)
+
+#### Others of Stack
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
 
 ### String
@@ -102,6 +107,7 @@ C++ Solutions for LeetCode(from 2020)
 - [11. Container with Most Water](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/11-container-with-most-water.cpp)
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [136. Single Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/136-single-number.cpp)
+- [321. Create Maximum Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/321-create-maximum-number.cpp)
 - [334. Increasing Triplet Subsequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/334-increasing-triplet-subsequence.cpp)
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
 - [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
