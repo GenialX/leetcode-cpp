@@ -36,6 +36,7 @@ C++ Solutions for LeetCode(from 2020)
 
 ### Binary Search
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
 
 ### Simulation
@@ -72,7 +73,6 @@ C++ Solutions for LeetCode(from 2020)
 ## Advanced Data Structure
 
 ### Binary Indexed Tree(BIT)
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
 ## Search
@@ -81,9 +81,13 @@ C++ Solutions for LeetCode(from 2020)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 
 ## Dynamic Programming
+
+### Linear DP
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+
+### Uncategorized
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [960. Delete Columns to Make Sorted III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/delete-columns-to-make-sorted-iii.cpp)
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1301. Number of Paths With Max Score](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1301-number-of-paths-with-max-score.cpp)
 - [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
