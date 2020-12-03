@@ -4,7 +4,7 @@ C++ Solutions for LeetCode(from 2020)
 # C++ Syntax Guide
 
 ## Lambda
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 
 ## Sort
 - Sort Internal Function [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
@@ -36,7 +36,7 @@ C++ Solutions for LeetCode(from 2020)
 
 ### Binary Search
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 - [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
 
 ### Simulation
@@ -83,7 +83,7 @@ C++ Solutions for LeetCode(from 2020)
 ## Dynamic Programming
 
 ### Linear DP
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 
 ### Uncategorized
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
@@ -96,7 +96,7 @@ C++ Solutions for LeetCode(from 2020)
 ## Graph
 
 ## Gready
-- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
 ## Math
