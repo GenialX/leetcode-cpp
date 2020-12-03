@@ -3,6 +3,9 @@ C++ Solutions for LeetCode(from 2020)
 
 # C++ Syntax Guide
 
+## Lambda
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
+
 ## Sort
 - Sort Internal Function [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
@@ -69,6 +72,7 @@ C++ Solutions for LeetCode(from 2020)
 ## Advanced Data Structure
 
 ### Binary Indexed Tree(BIT)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
 ## Search
@@ -79,6 +83,7 @@ C++ Solutions for LeetCode(from 2020)
 ## Dynamic Programming
 - [53. Maximum Subarray](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/53-maximum-subarray.cpp)
 - [960. Delete Columns to Make Sorted III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/delete-columns-to-make-sorted-iii.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1301. Number of Paths With Max Score](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1301-number-of-paths-with-max-score.cpp)
 - [1406. Stone Game III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1406-stone-game-ii.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
@@ -87,6 +92,7 @@ C++ Solutions for LeetCode(from 2020)
 ## Graph
 
 ## Gready
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 
 ## Math
@@ -114,6 +120,7 @@ C++ Solutions for LeetCode(from 2020)
 - [960. Delete Columns to Make Sorted III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/delete-columns-to-make-sorted-iii.cpp)
 - [1002. Find Common Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/10/1002-find-common-characters.cpp)
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp)
+- [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/1/1235-maximum-profit-in-job-scheduling.cpp)
 - [1238. Circular Permutation in Binary Representation](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1238-circular-permutation-in-binary-representation.cpp)
 - [1239. Maximum Length of a Concatenated String With Unique Characters](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/1239-maximum-length-of-a-concatenated-string-with-unique-characters.cpp)
 - [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
