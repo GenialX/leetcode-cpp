@@ -44,6 +44,9 @@ Great Problems!!! Just enjoy it ^.^
 - [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 - [1300. Sum of Mutated Array Closest to Target](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1300-sum-of-mutated-array-closest-to-target.cpp)
 
+### Prefix Sum
+- [5624. 得到连续 K 个 1 的最少相邻交换次数](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/5624-minimum-adjacent-swaps-for-k-consecutive-ones.cpp)
+
 ### Simulation
 - [1411. Number of Ways to Paint N X 3 Grid](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/1411-number-of-ways-to-paint-n-x-3-grid.cpp)
 
@@ -144,7 +147,8 @@ Great Problems!!! Just enjoy it ^.^
 - [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 - [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
-- [1681. Minimum Incompatibility](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1681-minimum-incompatibility.cpp)
+- [1681. minimum incompatibility](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1681-minimum-incompatibility.cpp)
+- [5624. 得到连续 K 个 1 的最少相邻交换次数](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/5624-minimum-adjacent-swaps-for-k-consecutive-ones.cpp)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
 - [Problems of Interview 55-II 平衡二叉树](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-55-II-ping-heng-er-cha-shu-lcof.cpp)
