@@ -92,6 +92,7 @@ Great Problems!!! Just enjoy it ^.^
 
 ### Linear DP
 - [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
+- [1240. Tiling a Rectangle with the Fewest Squares](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/1240-tiling-a-rectangle-with-the-fewest-squares.cpp)
 
 
 ### Status Compression
@@ -147,7 +148,8 @@ Great Problems!!! Just enjoy it ^.^
 - [1622. Fancy Sequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1622-fancy-sequence.cpp)
 - [1632. Rank Transform of a Matrix](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
 - [1649. Create Sorted Array Through Instructions](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1632-rank-transform-of-a-matrix.cpp)
-- [1681. minimum incompatibility](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1681-minimum-incompatibility.cpp)
+- [1681. Minimum Incompatibility](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1681-minimum-incompatibility.cpp)
+- [1240. Tiling a Rectangle with the Fewest Squares](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/1240-tiling-a-rectangle-with-the-fewest-squares.cpp)
 - [5624. 得到连续 K 个 1 的最少相邻交换次数](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/5624-minimum-adjacent-swaps-for-k-consecutive-ones.cpp)
 - [Problems of Interview 04-12 Paths With Sum LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-04-12-paths-with-sum-lcci.cpp)
 - [Problems of Interview 17-24 Max Submatrix LCCI](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/problems-of-interview-17-24-max-submatrix-lcci.cpp)
