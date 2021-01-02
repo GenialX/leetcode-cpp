@@ -97,6 +97,8 @@ Great Problems!!! Just enjoy it ^.^
 - [1235. Maximum Profit in Job Scheduling](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1235-maximum-profit-in-job-scheduling.cpp)
 - [1240. Tiling a Rectangle with the Fewest Squares](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/12/1240-tiling-a-rectangle-with-the-fewest-squares.cpp)
 
+### Interval DP
+- [730. Count Different Palindromic Subsequences](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2021/01/730-count-dirrerent-palindromic-subsequences.cpp)
 
 ### Status Compression
 - [1681. Minimum Incompatibility](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/1681-minimum-incompatibility.cpp)
@@ -136,6 +138,7 @@ Great Problems!!! Just enjoy it ^.^
 - [321. Create Maximum Number](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/11/321-create-maximum-number.cpp)
 - [334. Increasing Triplet Subsequence](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/03/334-increasing-triplet-subsequence.cpp)
 - [729. My Calendar I](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2021/01/729-my-calendar-i.cpp)
+- [730. Count Different Palindromic Subsequences](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2021/01/730-count-dirrerent-palindromic-subsequences.cpp)
 - [786. K-th Smallest Prime Fraction](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/02/786-k-th-smallest-prime-fraction.cpp)
 - [963. Minimum Area Rectangle II](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/01/963-minimum-area-rectangle-ii.cpp)
 - [960. Delete Columns to Make Sorted III](https://github.com/huxiaoxu2019/leetcode-cpp/blob/master/2020/04/delete-columns-to-make-sorted-iii.cpp)
